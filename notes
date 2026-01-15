@@ -1,0 +1,53 @@
+research:
+ 
+  - PyTorch
+
+  - TensorFlow
+
+  - JAX
+
+production:
+  
+  - Training 
+      VLM
+  
+  - Inference 
+      TensorRt
+      Triton
+
+low-level:
+
+  - CUDA
+
+  - ROCm
+
+  - OpenCL
+
+inference for edge computing:
+
+  - PyTorch Mobile
+
+  - TensorFlow Lite
+
+ease of use:
+
+  - FastAI
+
+  - ONYX
+
+  - wanDB
+
+compilers:
+
+  - XLA
+
+  - LLVM
+
+  - MLIR
+
+  - NVCC
+
+misc:
+
+  - Huggingface
+
